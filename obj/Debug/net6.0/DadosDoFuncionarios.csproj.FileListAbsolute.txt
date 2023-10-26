@@ -1,0 +1,14 @@
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\bin\Debug\net6.0\DadosDoFuncionarios.exe
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\bin\Debug\net6.0\DadosDoFuncionarios.deps.json
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\bin\Debug\net6.0\DadosDoFuncionarios.runtimeconfig.json
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\bin\Debug\net6.0\DadosDoFuncionarios.dll
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\bin\Debug\net6.0\DadosDoFuncionarios.pdb
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\DadosDoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\DadosDoFuncionarios.AssemblyInfoInputs.cache
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\DadosDoFuncionarios.AssemblyInfo.cs
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\DadosDoFuncionarios.csproj.CoreCompileInputs.cache
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\DadosDoFuncionarios.dll
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\refint\DadosDoFuncionarios.dll
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\DadosDoFuncionarios.pdb
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\DadosDoFuncionarios.genruntimeconfig.cache
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\DadosDoFuncionarios\DadosDoFuncionarios\obj\Debug\net6.0\ref\DadosDoFuncionarios.dll

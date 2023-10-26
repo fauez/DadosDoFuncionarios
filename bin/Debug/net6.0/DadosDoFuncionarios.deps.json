@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DadosDoFuncionarios/1.0.0": {
+        "runtime": {
+          "DadosDoFuncionarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DadosDoFuncionarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
